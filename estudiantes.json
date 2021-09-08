@@ -20,5 +20,25 @@
             "direccion": "CR 65 #67 89",
             "imagen": "https://res.cloudinary.com/duzf4vfki/image/upload/v1630271947/Clases/WhatsApp_Image_2021-08-28_at_10.26.49_AM_zy2rze.jpg"
         }
+    ],
+    "SoundBox": [
+      {
+        "id": 1,
+        "color":"red",
+        "Key":"Q",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3" 
+      },
+      {
+        "id": 2,
+        "color":"blue",
+        "Key":"W",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp" 
+      },
+      {
+        "id": 3,
+        "color":"blue",
+        "Key":"W",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3" 
+      }
     ]
 }
