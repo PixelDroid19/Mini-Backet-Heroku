@@ -82,17 +82,23 @@
                 "keyCode": 81,
                 "keyTrigger": "Q",
                 "id": "Heater-1",
+                "color":"#823a75",
+                "colorHover":"#4b3267",
                 "url":" https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"
               },
               {
                 "keyCode": 87,
                 "keyTrigger": "W",
+                "color":"#00ade4",
+                "colorHover":"#004063",
                 "id": "Heater-2",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"
               },
               {
                 "keyCode": 69,
                 "keyTrigger": "E",
+                "color":"#684070",
+                "colorHover":"#3b2f52",
                 "id": "Heater-3",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"
               },
@@ -100,35 +106,47 @@
                 "keyCode": 65,
                 "keyTrigger": "A",
                 "id": "Heater-4",
+                "color":"#883751",
+                "colorHover":"#602a4a",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3"
               },
               {
                 "keyCode": 83,
                 "keyTrigger": "S",
+                "color":"#06d2a1",
+                "colorHover":"#0d6c6b",
                 "id": "Clap",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"
               },
               {
                 "keyCode": 68,
                 "keyTrigger": "D",
+                "color":"#803e50",
+                "colorHover":"#602c3d",
                 "id": "Open-HH",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3"
               },
               {
                 "keyCode": 90,
                 "keyTrigger": "Z",
+                "color":"#742c30",
+                "colorHover":"#4d1928",
                 "id": "Kick-Hat",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3"
               },
               {
                 "keyCode": 88,
                 "keyTrigger": "X",
+                "color":"#333116",
+                "colorHover":"#120907",
                 "id": "Kick",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3"
               },
               {
                 "keyCode": 67,
                 "keyTrigger": "C",
+                "color":"#26395f",
+                "colorHover":"#04192e",
                 "id": "Closed-HH",
                 "url": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3"
               }
