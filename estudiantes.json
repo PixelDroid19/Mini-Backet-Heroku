@@ -24,21 +24,67 @@
     "SoundBox": [
       {
         "id": 1,
-        "color":"red",
+        "color":"#823a75",
+        "colorHover":"#4b3267",
         "Key":"Q",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3" 
       },
       {
         "id": 2,
-        "color":"blue",
+        "color":"#00ade4",
+        "colorHover":"#004063",
         "Key":"W",
-        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp" 
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3" 
       },
       {
         "id": 3,
-        "color":"blue",
-        "Key":"W",
+        "color":"#684070",
+        "colorHover":"#3b2f52",
+        "Key":"E",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3" 
+      },
+      {
+        "id": 4,
+        "color":"#883751",
+        "colorHover":"#602a4a",
+        "Key":"A",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3" 
+      },
+      {
+        "id": 5,
+        "color":"#06d2a1",
+        "colorHover":"#0d6c6b",
+        "Key":"S",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3" 
+      },
+      {
+        "id": 6,
+        "color":"#803e50",
+        "colorHover":"#602c3d",
+        "Key":"D",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3" 
+      },
+      {
+        "id": 7,
+        "color":"#742c30",
+        "colorHover":"#4d1928",
+        "Key":"Z",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3" 
+      },
+      {
+        "id": 8,
+        "color":"#333116",
+        "colorHover":"#120907",
+        "Key":"X",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3" 
+      },
+      {
+        "id": 9,
+        "color":"#26395f",
+        "colorHover":"#04192e",
+        "Key":"C",
+        "Url":"https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3" 
       }
+
     ]
 }
