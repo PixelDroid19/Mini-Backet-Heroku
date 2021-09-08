@@ -27,6 +27,7 @@
         "color":"#823a75",
         "colorHover":"#4b3267",
         "Key":"Q",
+        "Name": "Heater-1",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3" 
       },
       {
@@ -34,6 +35,7 @@
         "color":"#00ade4",
         "colorHover":"#004063",
         "Key":"W",
+        "Name": "Heater-2",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3" 
       },
       {
@@ -41,6 +43,7 @@
         "color":"#684070",
         "colorHover":"#3b2f52",
         "Key":"E",
+        "Name": "Heater-3",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3" 
       },
       {
@@ -48,6 +51,7 @@
         "color":"#883751",
         "colorHover":"#602a4a",
         "Key":"A",
+        "Name": "Heater-4",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3" 
       },
       {
@@ -55,6 +59,7 @@
         "color":"#06d2a1",
         "colorHover":"#0d6c6b",
         "Key":"S",
+        "Name": "Clap",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3" 
       },
       {
@@ -62,6 +67,7 @@
         "color":"#803e50",
         "colorHover":"#602c3d",
         "Key":"D",
+        "Name": "Open-HH",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3" 
       },
       {
@@ -69,6 +75,7 @@
         "color":"#742c30",
         "colorHover":"#4d1928",
         "Key":"Z",
+        "Name":"Kick-n'-Hat",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3" 
       },
       {
@@ -76,6 +83,7 @@
         "color":"#333116",
         "colorHover":"#120907",
         "Key":"X",
+        "Name":"Kick",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3" 
       },
       {
@@ -83,6 +91,7 @@
         "color":"#26395f",
         "colorHover":"#04192e",
         "Key":"C",
+        "Name": "Closed-HH",
         "Url":"https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3" 
       }
 
